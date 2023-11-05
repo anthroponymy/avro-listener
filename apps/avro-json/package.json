@@ -1,0 +1,26 @@
+{
+  "name": "avro-json",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "codepart-dev <ksnavinkumar.diary@gmail.com>",
+  "homepage": "https://github.com/codepart-dev/super-duper-octo-engine#readme",
+  "license": "ISC",
+  "main": "avro-json.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/codepart-dev/super-duper-octo-engine.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/avro-json.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/codepart-dev/super-duper-octo-engine/issues"
+  }
+}
